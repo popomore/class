@@ -1,0 +1,8 @@
+{
+  "name": "class",
+  "repo": "popomore/class",
+  "description": "",
+  "version": "1.1.0",
+  "scripts": ["class.js"],
+  "license": "MIT"
+}

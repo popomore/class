@@ -1,5 +1,3 @@
-define(function(require, exports, module) {
-
   // Class
   // -----------------
   // Thanks to:
@@ -191,4 +189,3 @@ define(function(require, exports, module) {
         }
         return -1
       }
-})
