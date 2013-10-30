@@ -3,6 +3,6 @@
   "repo": "popomore/class",
   "description": "",
   "version": "1.1.0",
-  "scripts": ["class.js"],
+  "scripts": ["src/class.js"],
   "license": "MIT"
 }
