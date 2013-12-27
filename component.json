@@ -4,6 +4,7 @@
   "description": "提供简洁的 OO 实现。",
   "version": "1.1.0",
   "keywords": ["infrastructure"],
+  "main": "src/class.js",
   "scripts": ["src/class.js"],
   "license": "MIT"
 }
