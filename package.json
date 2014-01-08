@@ -17,6 +17,6 @@
         "url": "https://github.com/aralejs/class/issues"
     },
     "spm": {
-        "output": ["class.js"]
+        "main": "src/class.js"
     }
 }
